@@ -6,7 +6,7 @@
 </div> 
 <div style=" ">  
  
-  ![Snake animation](https://github.com/dvlprkrishna/dvlprkrishna/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/dvlprkrishna/dvlprkrishna/main/github-contribution-grid-snake.svg)
   <img align="right" alt="Krishna-Sahu-pic" height="110" style="padding-top:50px" src="https://avatars.githubusercontent.com/u/13957385?v=4">
 </div>
    
