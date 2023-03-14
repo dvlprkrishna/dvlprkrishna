@@ -1,19 +1,14 @@
  ## Hi, I'm Krishna Sahu
-<div align="center">
-  <a href="https://github.com/dvlprkrishna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dvlprkrishna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvlprkrishna&layout=compact&langs_count=7&theme=dracula"/>
-</div> 
-<div style=" ">  
  
-  ![Snake animation](https://raw.githubusercontent.com/dvlprkrishna/dvlprkrishna/main/github-contribution-grid-snake.svg)
+<div style=" ">  
+  
   <img align="right" alt="Krishna-Sahu-pic" height="110" style="padding-top:50px" src="https://avatars.githubusercontent.com/u/13957385?v=4">
 </div>
    
   
  
  
-## 💻 Things I code with:
+## 💻 Things I code with  -
 <p align="center"> 
   <img alt="react" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img alt="js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -35,15 +30,14 @@
  <img alt="php" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </p>
 
-## 📘 Current Learning Goals (2022):
-* [ ] AWS 
-* [x] graphQL 
+## 📘 Current Learning Goals [2023] -
+* [x] React.JS 
+* [ ] AWS  
+* [ ] Python
+ 
 
 ## 📫 Connect with me!
-<p > 
- <a href="https://twitter.com/dvlprkrishna">
-    <img  alt="Twitter" height="25" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+<p >  
   <a href="https://www.instagram.com/dvlprkrishna">
     <img  alt="Instagram" height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
