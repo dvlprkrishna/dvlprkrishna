@@ -24,7 +24,7 @@ I'm a Front End Web Developer having over 5️⃣+ years of experience as a web 
     <a href="https://linkedin.com/in/reactjsdev/">Linkedin</a> ➖
     <a href="https://instagram.com/dvlprkrishna/">Instagram</a> ➖
     <a href="https://twitter.com/dvlprkrishna">Twitter</a> ➖
-    <a href="https://facebook.com/dvlprkrishna/">Facebook</a>
+    <a href="https://facebook.com/dvlprkrishna/">Facebook</a> ➖
     <a href="https://github.com/dvlprkrishna/">Recursion</a>
   </samp>
 </p>
