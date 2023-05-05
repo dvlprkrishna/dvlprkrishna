@@ -1,4 +1,5 @@
-![Profile views](https://gpvc.arturio.dev/dvlprkrishna)
+<!-- ![Profile views](https://gpvc.arturio.dev/dvlprkrishna) -->
+![Krishna Sahu Github Profile Views](https://komarev.com/ghpvc/?username=dvlprkrishna&color=green)    
 <p><pre align="center">
 <strong>Krishna P Sahu</strong>  <a href="https://krishnasahu.in/">​Homepage​</a> / <a href="https://dvlpr.wtf">Blog</a> / <a href="https://dvlpr.in">Web Dev Studio</a> / <a href="https://linkedin.com/in/reactjsdev/">​LinkedIn​</a> / <a href="https://github.com/dvlprkrishna/">Recursion</a></pre></p>
 <!-- <img width="1834" alt="github readme" src="https://raw.githubusercontent.com/dvlprkrishna/dvlprkrishna/main/Krishnasahu.in.png"> -->
