@@ -16,3 +16,10 @@ I'm a Front End Web Developer having over 5️⃣+ years of experience as a web 
 
 <p><pre align="center">
 <strong>Skills - </strong> Javascript / React.js / Node.js / Express / MongoDB / APIs / HTML5 / CSS3 / SASS / Bootstrap / Tailwind / MUI</pre></p>
+
+<!-- <a href="https://github.com/dvlprkrishna/where-to-next" target="_blank"><img src="https://repository-images.githubusercontent.com/631857699/9ce88f83-3280-4c31-a764-7c730d9ea2f1" 
+alt="JavaScript Full Course" width="330" height="180" /></a>
+<a href="https://github.com/dvlprkrishna/where-to-next" target="_blank"><img src="https://repository-images.githubusercontent.com/631857699/9ce88f83-3280-4c31-a764-7c730d9ea2f1" 
+alt="JavaScript Full Course" width="330" height="180" /></a>
+<a href="https://github.com/dvlprkrishna/where-to-next" target="_blank"><img src="https://repository-images.githubusercontent.com/631857699/9ce88f83-3280-4c31-a764-7c730d9ea2f1" 
+alt="JavaScript Full Course" width="330" height="180" /></a> -->
