@@ -7,6 +7,8 @@
 [Linkedin](https://linkedin.com/in/reactjsdev/)  &nbsp; - &nbsp; 
 [Web Dev Agency](https://dvlpr.in)  
 
+
+![Krishna Sahu Github Profile Views](https://komarev.com/ghpvc/?username=dvlprkrishna&color=blue) 
 #### Projects
 
 - 🦈 [`Shark Tank Rocks`](https://SharkTank.Rocks) - Data Viz website for shark tank india deals
@@ -23,7 +25,5 @@
 -  💻 **`Frontend`** -  React, HTML CSS, BootStrap, Tailwind CSS
 -  🤯 **`Backend`** - Next.js, Firebase, PHP, AWS, MongoDB, PostgreSQL
 
-
-
-![Krishna Sahu Github Profile Views](https://komarev.com/ghpvc/?username=dvlprkrishna&color=blue) 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,aws,tailwind,bootstrap,html,css,sass,py,figma,xd,vite,vercel,theme=dark)](https://skillicons.dev#gh-light-mode-only)
  
