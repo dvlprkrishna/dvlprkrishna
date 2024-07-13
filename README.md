@@ -1,14 +1,16 @@
 ##  Hi, I'm Krishna
-
+<!--
 **`Full Stack Developer`** &nbsp; 
 **`Tech Lead`** &nbsp; 
 **`Technical Project Manager`**
-
+-->
 [Linkedin](https://linkedin.com/in/reactjsdev/)  &nbsp; - &nbsp; 
 [Web Dev Agency](https://dvlpr.in)  
 
-
-![Krishna Sahu Github Profile Views](https://komarev.com/ghpvc/?username=dvlprkrishna&color=blue) 
+![Krishna Sahu - Full Stack Developer](https://img.shields.io/badge/Full&nbsp;stack-Developer-khaki) &nbsp; 
+![Krishna Sahu - Tech Lead](https://img.shields.io/badge/Tech-Lead-blue) &nbsp; 
+![Krishna Sahu - Technical Project Manager](https://img.shields.io/badge/Technical-Project&nbsp;Manager-linen)
+ 
 #### Projects
 
 - 🦈 [`Shark Tank Rocks`](https://SharkTank.Rocks) - Data Viz website for shark tank india deals
@@ -26,4 +28,7 @@
 -  🤯 **`Backend`** - Next.js, Firebase, PHP, AWS, MongoDB, PostgreSQL
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,aws,tailwind,bootstrap,html,css,sass,py,figma,xd,vite,vercel,theme=dark)](https://skillicons.dev#gh-light-mode-only)
- 
+
+![Krishna Sahu Github Profile Views](https://komarev.com/ghpvc/?username=dvlprkrishna&color=blue) &nbsp; 
+![Krishna Sahu Website Status](https://img.shields.io/website?url=https%3A%2F%2Fkrishnasahu.in) &nbsp; 
+
